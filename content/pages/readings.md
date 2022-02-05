@@ -18,35 +18,517 @@ Wallace, Anthony. _The Long, Bitter Trail._ Hill and Wang Publishers, 1993.
 Readings by Session
 -------------------
 
-| SES # | TOPICS | READINGS | READING QUESTIONS |
-| --- | --- | --- | --- |
-| 1 | Introduction  {{< br >}}The Americas before Columbus | &nbsp; |
-| 2 | The Spanish Conquest | &nbsp; |
-| 3 | Discuss Las Casas; the great debate on the nature of the Indians |  {{< br >}}{{< br >}} Carmack, Robert, Janine Gasco, and Gary Gossen. "Mesoamerica and Spain: 'The Colonial Period in Mesoamerica.'" _The Legacy of Mesoamerica._ Prentice Hall, 1995.; and {{< br >}}{{< br >}} de las Casas, Bartolomé. _Short Account Of The Destruction of the Indies._ Translated by Nigel Griffin. USA: Penguin, 1999. {{< br >}}{{< br >}} Taylor. Chaps. 1-3. {{< br >}}{{< br >}}  | &nbsp; |
-| 4 | Native Commentaries  {{< br >}}Colonial Exploitation and Rule |  {{< br >}}{{< br >}} Wolf, Eric. "Iberians in America." _Europe and the People without History_. University of California Press, 1997. Reprint. {{< br >}}{{< br >}}  | &nbsp; |
-| 5 | &nbsp; |  {{< br >}}{{< br >}} Sweet, David. "The Ibero-American Frontier Mission in Native American History." _The New Latin American Mission History._ Edited by Erick Langer, and Robert H. Jackson. Lincoln: University of Nebraska Press, 1995, pp. 1-46. {{< br >}}{{< br >}} Taylor. Chap. 4. {{< br >}}{{< br >}}  | ([PDF]({{< baseurl >}}/resources/sweetquestions)) |
-| 6 | Class Presentations on the Colombian Exchange | &nbsp; |
-| 7 | Missionizing the Americas | _[Jesuit Relations Reader](http://moses.creighton.edu/kripke/jesuitrelations/)._ Part A. First two texts:  {{< br >}}"What One Must Suffer in Wintering with the Savages." (LeJeune 1635, Doc. XXIII).  {{< br >}}"Instruction for the Fathers of our Society who shall be sent to the Hurons." (Brebeuf 1637, Doc. XXIX).  {{< br >}}Taylor. Chap. 5 and Chap. 16 through p. 382. (Rest of chapter recommended.) | &nbsp; |
-| 8 | (Partial) Film:  {{< br >}}_The Mission.  {{< br >}}_Discuss Readings | &nbsp; | ([PDF]({{< baseurl >}}/resources/missionquestions)) |
-| 9 | Resistance & rebellion in colonial Latin America | _[Jesuit Relations Reader](http://moses.creighton.edu/kripke/jesuitrelations/)._ First Part, all:  {{< br >}}"What one must suffer in Wintering with the Savages." (LeJeune 1635, Doc. XXIII).  {{< br >}}"Instruction for the Fathers of our society who shall be sent to the Hurons." (Brebeuf 1637, Doc. XXIX).  {{< br >}}"Relation of what occurred among the Hurons in the year 1635." (Brebeuf 1635, Doc. XXV).  {{< br >}}"Relation of what occurred in the Mission of the Society of Jesus, in the Land of the Hurons, in the year 1637." (LeMercier 637, Doc. XXIX).  {{< br >}}"How Father Jogues was taken by the Iroquois, and what he suffered." (Lalemant 1647, Doc. LXIII). | &nbsp; |
-| 10 | Film: _Black Robe_ | &nbsp; | ([PDF]({{< baseurl >}}/resources/blackrobequest)) |
-| 11 | Colonization of North America, Fur Trade, New France |  {{< br >}}{{< br >}} _[Jesuit Relations Reader](http://moses.creighton.edu/kripke/jesuitrelations/)._ Part 2 {{< br >}}{{< br >}} Richter, Daniel. _Ordeal of the Longhouse._ Omohundro Institute of Early American History, 1993, pp. 57-74. {{< br >}}{{< br >}} Wallace, Anthony F.C. "The Cult of Death." _Death and Rebirth of the Seneca._ Vintage Books, 1972, pp. 93-107. {{< br >}}{{< br >}} Wogan, Peter. "Perceptions of European Literacy in Early Contact Situations." _Ethnohistory_ 41 (1994): 408-29. {{< br >}}{{< br >}} Churchill, Ward. "And they did it like dogs in the dirt…:an indigenist analysis of Black Robe." _From a Native Son._ South End Press, 1997, pp. 432-437. {{< br >}}{{< br >}} Taylor. Chaps. 6, 8 (7 optional). {{< br >}}{{< br >}} Cronon. Chaps. 1-3. {{< br >}}{{< br >}}  | ([PDF]({{< baseurl >}}/resources/cronontaylorquest)) |
-| 12 | Discuss Jesuit Relations | &nbsp; | ([PDF]({{< baseurl >}}/resources/jesuitrelquest)) |
-| 13 | Discuss Film: _Black Robe_ | &nbsp; |
-| 14 | Film: "Wilderness | &nbsp; |
-| 15 | Discuss New England Environment and Economy |  {{< br >}}{{< br >}} Bowden, Henry Warner. "Northeast Indians, English Missions." _American Indians and Christian Missions._ University of Chicago Press. Reprint 1985_._ {{< br >}}{{< br >}} Rowlandson, Mary. "The Captivity of Mrs. Mary Rowlandson." (download from [Project Gutenberg](http://www.gutenberg.org/ebooks/851).) {{< br >}}{{< br >}} Taylor. Chap. 17. {{< br >}}{{< br >}}  | ([PDF]({{< baseurl >}}/resources/rowlandsonquest)) |
-| 16 | Discuss War  {{< br >}}Captivity | &nbsp; |
-| 17 | Discuss 18th and 19th Century Frontiers  {{< br >}}Indians and the U.S.  {{< br >}}Film Showing: _Civilization_ |  {{< br >}}{{< br >}} Taylor. Chap. 18. {{< br >}}{{< br >}} Wallace, Anthony F. C. "The Cult of Death." _Death and Rebirth of the Seneca._ Vintage Books, 1972. (All) {{< br >}}{{< br >}}  | ([PDF]({{< baseurl >}}/resources/wallacequestions)) |
-| 18 |  {{< br >}}{{< br >}} Independence, frontiers & extraction in 19th century Latin America {{< br >}}{{< br >}}  | &nbsp; |
-| 19 | Films: _Spirit of Kuna Yala_,  {{< br >}}_Just us Kuna_ | [Kuna Reader. Part 1.](#Kuna) | &nbsp; |
-| 20 | Historical Research  {{< br >}}Discuss Kuna Materials | &nbsp; | ([PDF]({{< baseurl >}}/resources/kunaquestions)) |
-| 22 | Discuss Kuna Materials | [Kuna Reader. Part 2.](#Kuna) | &nbsp; |
-| 23 |  {{< br >}}{{< br >}} Indian Activism and Organizing {{< br >}}{{< br >}}  | &nbsp; |
-| 24 |  {{< br >}}{{< br >}} Film, "Out of the Forest"; discuss Kayapo {{< br >}}{{< br >}}  | &nbsp; | ([PDF]({{< baseurl >}}/resources/kayapostudyquest)) |
-| 25 | Discuss Kayapo |  {{< br >}}{{< br >}} Turner, Terence. "The Role of Indigenous Peoples in the Environmental Crisis: The Example of the Kayapo of the Brazilian Amazon." _Perspectives in Biology and Medicine_ 36, 3 (1993): 526-545. {{< br >}}{{< br >}} ———. "An Indigenous People's Struggle…" _Journal of Latin American Anthropology_ 1, 1 (1995). {{< br >}}{{< br >}} ———. "Defiant images: The Kayapo Appropriation of Video." _Anthropology Today_ 8, 6 (Dec 1992). {{< br >}}{{< br >}}  | &nbsp; |
-| 26 | Brazilian Films, Discuss Kayapo | &nbsp; |
-| 27 | Indians: Images and Ideology | &nbsp; |
-| 28 | Films, Wrap-up | &nbsp; | ([PDF]({{< baseurl >}}/resources/endtermrevquest)) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+{{< thopen >}}
+READING QUESTIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction  
+The Americas before Columbus
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+The Spanish Conquest
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Discuss Las Casas; the great debate on the nature of the Indians
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Carmack, Robert, Janine Gasco, and Gary Gossen. "Mesoamerica and Spain: 'The Colonial Period in Mesoamerica.'" _The Legacy of Mesoamerica._ Prentice Hall, 1995.; and
+
+de las Casas, Bartolomé. _Short Account Of The Destruction of the Indies._ Translated by Nigel Griffin. USA: Penguin, 1999.
+
+Taylor. Chaps. 1-3.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Native Commentaries  
+Colonial Exploitation and Rule
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Wolf, Eric. "Iberians in America." _Europe and the People without History_. University of California Press, 1997. Reprint.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Sweet, David. "The Ibero-American Frontier Mission in Native American History." _The New Latin American Mission History._ Edited by Erick Langer, and Robert H. Jackson. Lincoln: University of Nebraska Press, 1995, pp. 1-46.
+
+Taylor. Chap. 4.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/sweetquestions))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Class Presentations on the Colombian Exchange
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Missionizing the Americas
+{{< tdclose >}}
+{{< tdopen >}}
+_[Jesuit Relations Reader](http://moses.creighton.edu/kripke/jesuitrelations/)._ Part A. First two texts:  
+"What One Must Suffer in Wintering with the Savages." (LeJeune 1635, Doc. XXIII).  
+"Instruction for the Fathers of our Society who shall be sent to the Hurons." (Brebeuf 1637, Doc. XXIX).  
+Taylor. Chap. 5 and Chap. 16 through p. 382. (Rest of chapter recommended.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+(Partial) Film:  
+_The Mission.  
+_Discuss Readings
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/missionquestions))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Resistance & rebellion in colonial Latin America
+{{< tdclose >}}
+{{< tdopen >}}
+_[Jesuit Relations Reader](http://moses.creighton.edu/kripke/jesuitrelations/)._ First Part, all:  
+"What one must suffer in Wintering with the Savages." (LeJeune 1635, Doc. XXIII).  
+"Instruction for the Fathers of our society who shall be sent to the Hurons." (Brebeuf 1637, Doc. XXIX).  
+"Relation of what occurred among the Hurons in the year 1635." (Brebeuf 1635, Doc. XXV).  
+"Relation of what occurred in the Mission of the Society of Jesus, in the Land of the Hurons, in the year 1637." (LeMercier 637, Doc. XXIX).  
+"How Father Jogues was taken by the Iroquois, and what he suffered." (Lalemant 1647, Doc. LXIII).
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Film: _Black Robe_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/blackrobequest))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Colonization of North America, Fur Trade, New France
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_[Jesuit Relations Reader](http://moses.creighton.edu/kripke/jesuitrelations/)._ Part 2
+
+Richter, Daniel. _Ordeal of the Longhouse._ Omohundro Institute of Early American History, 1993, pp. 57-74.
+
+Wallace, Anthony F.C. "The Cult of Death." _Death and Rebirth of the Seneca._ Vintage Books, 1972, pp. 93-107.
+
+Wogan, Peter. "Perceptions of European Literacy in Early Contact Situations." _Ethnohistory_ 41 (1994): 408-29.
+
+Churchill, Ward. "And they did it like dogs in the dirt…:an indigenist analysis of Black Robe." _From a Native Son._ South End Press, 1997, pp. 432-437.
+
+Taylor. Chaps. 6, 8 (7 optional).
+
+Cronon. Chaps. 1-3.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/cronontaylorquest))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Discuss Jesuit Relations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/jesuitrelquest))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Discuss Film: _Black Robe_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Film: "Wilderness
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Discuss New England Environment and Economy
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Bowden, Henry Warner. "Northeast Indians, English Missions." _American Indians and Christian Missions._ University of Chicago Press. Reprint 1985_._
+
+Rowlandson, Mary. "The Captivity of Mrs. Mary Rowlandson." (download from [Project Gutenberg](http://www.gutenberg.org/ebooks/851).)
+
+Taylor. Chap. 17.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/rowlandsonquest))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Discuss War  
+Captivity
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Discuss 18th and 19th Century Frontiers  
+Indians and the U.S.  
+Film Showing: _Civilization_
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Taylor. Chap. 18.
+
+Wallace, Anthony F. C. "The Cult of Death." _Death and Rebirth of the Seneca._ Vintage Books, 1972. (All)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/wallacequestions))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Independence, frontiers & extraction in 19th century Latin America
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Films: _Spirit of Kuna Yala_,  
+_Just us Kuna_
+{{< tdclose >}}
+{{< tdopen >}}
+[Kuna Reader. Part 1.](#Kuna)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Historical Research  
+Discuss Kuna Materials
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/kunaquestions))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Discuss Kuna Materials
+{{< tdclose >}}
+{{< tdopen >}}
+[Kuna Reader. Part 2.](#Kuna)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Indian Activism and Organizing
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Film, "Out of the Forest"; discuss Kayapo
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/kayapostudyquest))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Discuss Kayapo
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Turner, Terence. "The Role of Indigenous Peoples in the Environmental Crisis: The Example of the Kayapo of the Brazilian Amazon." _Perspectives in Biology and Medicine_ 36, 3 (1993): 526-545.
+
+———. "An Indigenous People's Struggle…" _Journal of Latin American Anthropology_ 1, 1 (1995).
+
+———. "Defiant images: The Kayapo Appropriation of Video." _Anthropology Today_ 8, 6 (Dec 1992).
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Brazilian Films, Discuss Kayapo
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Indians: Images and Ideology
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28
+{{< tdclose >}}
+{{< tdopen >}}
+Films, Wrap-up
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/endtermrevquest))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
  

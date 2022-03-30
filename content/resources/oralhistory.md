@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21a-441-the-conquest-of-america-spring-2004/9ca24991f2ed678682a46ae7ef48da25_oralhistory.pdf
 file_type: application/pdf
+parent_uid: d351c30b-77ea-cda6-f5c2-a0b747974938
 resourcetype: Document
 title: oralhistory.pdf
 uid: 9ca24991-f2ed-6786-82a4-6ae7ef48da25
